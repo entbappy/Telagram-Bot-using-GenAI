@@ -38,3 +38,14 @@ pip install -r requirements.txt
 
 ### AIogram docs
 https://docs.aiogram.dev/en/latest/
+
+
+## Telegram Setup:
+
+1. Search for botfather
+2. /newbot
+   - mybot88
+   - mybot88_bot
+
+   * Now click on url to access the bot
+   * Make sure you collect the access token
