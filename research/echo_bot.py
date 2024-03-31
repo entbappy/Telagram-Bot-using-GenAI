@@ -38,6 +38,7 @@ async def echo(message: types.Message):
     """
 
     await message.reply(message.text)
+    # await message.reply("Got it")
 
 
 
